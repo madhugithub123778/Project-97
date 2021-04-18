@@ -1,0 +1,74 @@
+.header img
+{
+	width: 80px;margin-left: 15px;
+}
+
+.header
+{
+	color: black;font-family:'Indie Flower', cursive;;font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+body{
+    background-color:lightcyan;
+
+
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;transition-duration: 0.6s;background-color:navy;color: white; font-weight: bold;border: 2px solid navy; border-radius: 20px;height: 50px; width: 100px;
+    font-size: 15px;margin-top: 10px;
+    }
+    
+    #logout:hover{
+    background-color: white;color: navy;box-shadow: rebeccapurple 20px;
+    
+    }
+
+    #welcome_name{
+        font-family:'Segoe UI';border: 3px solid black;width: 400px; padding: 10px;border-radius: 20px;
+        background-color:lightskyblue;box-shadow: 5px 5px 15px black;color: black;border-style: dotted;
+    
+    }
+
+    .input_div_room_page{
+        text-align: center;  background-image: linear-gradient(yellowgreen, lightgreen);
+        ;float: none;border-radius: 15px;padding: 10px;border-style:ridge;border-width: 15px;box-shadow: 10px 10px 25px navy;width: 900px;
+        
+        }
+
+    #addroom{
+        font-size: 20px; float: center;transition-duration: 0.6s;background-color:orangered;color: white; font-weight: bold;border: 2px solid orangered; border-radius: 20px;height: 50px; width: 100px;
+        font-size: 15px;
+
+    }
+
+    #addroom:hover{
+        background-color: white;color: orangered;
+        
+        }
+
+        label{
+            font-size: 20px;
+font-family: monospace;
+
+        }
+
+        #room_name{
+            border: 2px solid plum;font-family: monospace; color: navy;
+            
+            }
+
+            #output
+{
+    padding: 10px; width:80%;background-image: linear-gradient(lavender,plum
+    );border-radius: 15px;border-style:double;border-width: 10px;margin-bottom: 10px;
+}
+    
+
+.names_of_rooms
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
